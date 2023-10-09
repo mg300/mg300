@@ -2,7 +2,7 @@
 
 I'm Mateusz, Web Developer from Poland.
 
-- 👨‍💻 All of my projects are available at [https://portfolio.gjda.pl](https://portfolio.gjda.pl)
+- 👨‍💻 All of my projects are available at [https://portfolio.mgjda.pl](https://portfolio.mgjda.pl)
 - 🌱 I’m currently learning **Next.js**
 - 📫 Reach me on **mateuszjacekgajda@gmail.com**
 
