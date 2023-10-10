@@ -17,7 +17,7 @@ I'm Mateusz, Web Developer from Poland.
   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
